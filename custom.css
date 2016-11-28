@@ -1,0 +1,34 @@
+/*Your code here*/
+#selected-plays {
+  background-color:gray;
+}
+
+.large-title {
+  font-size:2em;
+  margin-bottom:20px;
+}
+
+td:nth-child(3) {
+  background-color:gray;
+}
+
+.clear-after li {
+  color:black;
+}
+
+#selected-plays > li > ul > li {
+  color:red;
+}
+
+tr:nth-child(odd) {
+  background-color:gray;
+}
+
+a[href$=".pdf"] {
+  color:#0000FF;
+  font-size:2em;
+}
+
+a[href*="asyoulikeit"] {
+  color:orange;
+}
